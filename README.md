@@ -13,3 +13,8 @@ while (condicao){
   alert("verdade")
   break
 }
+
+
+for(var i = 0; i <10; i++){
+  
+}
