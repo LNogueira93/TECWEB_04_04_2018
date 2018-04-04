@@ -1,1 +1,9 @@
-# TECWEB_04_04_2018
+#java
+
+var condicao = true;
+
+if (condição = true) {
+  alert("verdade");
+} else {
+  alert("mentira");
+}
