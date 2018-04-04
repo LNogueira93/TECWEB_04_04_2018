@@ -7,3 +7,9 @@ if (condição = true) {
 } else {
   alert("mentira");
 }
+
+
+while (condicao){
+  alert("verdade")
+  break
+}
