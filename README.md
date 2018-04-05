@@ -35,3 +35,9 @@ h1.classList
 var img = document.getElementById(img1)
 
 img1.src
+
+document.getElementsByTagName("")
+
+var lista = document.querySelector("h1.centralizado")
+
+
