@@ -31,3 +31,7 @@ h1.innerText //Volta o texto que está no h1
 h1.innerText = "texto a ser substituido"
 
 h1.classList
+
+var img = document.getElementById(img1)
+
+img1.src
