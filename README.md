@@ -40,4 +40,6 @@ document.getElementsByTagName("")
 
 var lista = document.querySelector("h1.centralizado")
 
+Eventos são todas as palavras que começam com "ON"
 
+defer // carrega, segura e só mostra quanto o html carregar tudo.
