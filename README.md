@@ -19,6 +19,7 @@ for(var i = 0; i <10; i++){
   
 }
 
+defer // carrega, segura e só mostra quanto o html carregar tudo.
 
 #DOM
 
