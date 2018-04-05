@@ -18,3 +18,16 @@ while (condicao){
 for(var i = 0; i <10; i++){
   
 }
+
+
+#DOM
+
+window
+Document
+document.getElementById("titulo") //Pegar elemento pelo ID// altera no corpo do html
+
+h1.innerText //Volta o texto que está no h1
+
+h1.innerText = "texto a ser substituido"
+
+h1.classList
